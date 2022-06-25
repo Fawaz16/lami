@@ -156,18 +156,6 @@ backface-visibility: hidden;
 }
 
 /* main project */
-delete{
-  background: url(images/184123_original_3152x3802.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  
-  width: 100%;
- 
-  margin-top: 20px;
- 
-  color: aliceblue;
-}
 
 
 
@@ -474,76 +462,26 @@ color: rgb(0, 0, 0);
   margin-top: 30px;
 }
 /* main project */
-.j1-text{
-  background: url(images/w.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 10vh;
-  margin-top: 80px;
-  color: aliceblue;
-  
+.j-text img{
+width: 100%;
+margin-top: 20px;
+height: 400px;
+}
+.j-text h3{
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: "popins", sans-serif;
+  font-weight:300 ;
+
 }
 
 
+
   
 
 
-.j-text{
-  background: url(images/w.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 10vh;
-  margin-top: 80px;
-  color: aliceblue;
-  
-}
-.j4-text{
-  background: url(images/h.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 10vh;
-  margin-top: 80px;
-  color: aliceblue;
-  
-}
-.j3-text{
-  background: url(images/000_9WF2NH.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 10vh;
-  margin-top: 80px;
-  color: aliceblue;
-  
-}
-.j2-text a{
-  color: aliceblue;
-}
-.j2-text{
-  padding-top: 150px;
-  padding-left: 20px;
-  /* margin-bottom: 150px; */
-}
-.j2-text h3{
-  color: aliceblue;
-  font-size: 25px;
-}
-.j2-text button{
-  background: transparent;
-  border: 2px solid white;
-color: #e2e5da;
-margin-top: 30px;
-width: 120px;
-font-size: 16px;
-height: 40px;
-}
+
 
 
 
@@ -914,76 +852,25 @@ padding-top: 80px;
       }
 
 /* main project */
-.j2-text a{
-  color: aliceblue;
-}
-.j2-text{
-  padding-top: 130px;
-  padding-left: 20px;
-  /* margin-bottom: 160px; */
-}
-.j2-text h3{
-  color: aliceblue;
-  font-size: 30px;
-  font-weight: 500;
-}
-.j2-text button{
-  background: transparent;
-  border: 2px solid white;
-color: #e2e5da;
-margin-top: 30px;
-width: 120px;
-font-size: 16px;
-height: 40px;
-}
-.j-text{
-  background: url(images/184123_original_3152x3802.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  
+.j-text img{
   width: 100%;
- 
   margin-top: 20px;
-  height: 10vh;
-  color: aliceblue;
-}
-.j1-text{
-  background: url(images/184123_original_3152x3802.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  /* margin-left: 20px; */
+  padding-right: 30px;
+height: 500px;
+
+  }
+  .j-text{
+    margin: 20px;
+  }
+  .j-text h3{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: "popins", sans-serif;
+    font-weight:300 ;
   
-  width: 100%;
- 
-  margin-top: 150px;
-  height: 10vh;
-  color: aliceblue;
-}
-.j3-text{
-  background: url(images/000_9WF2NH.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  
-  width: 100%;
- 
-  margin-top: 150px;
-  height: 10vh;
-  color: aliceblue;
-}
-.j4-text{
-  background: url(images/000_9WF2NH.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  
-  width: 100%;
- 
-  margin-top: 150px;
-  height: 10vh;
-  color: aliceblue;
-}
+  }
 
 /* gallery */
 .k-text h1{
@@ -1290,79 +1177,25 @@ visibility: visible;
 }
 
 /* main projects */
-.j2-text a{
-  color: aliceblue;
-}
-.j2-text{
-  padding-top: 100px;
-  padding-left: 20px;
-  /* margin-bottom: 92px; */
-
-}
-.j-text{
-  background: url(images/g.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  
+.j-text img{
   width: 100%;
- 
   margin-top: 20px;
-  height: 50vh;
-  color: aliceblue;
-}
-.j1-text{
-  background: url(images/000_9WF2NH.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  
-  width: 100%;
- 
-  margin-top: 90px;
-  height: 50vh;
-  color: aliceblue;
-}
-.j3-text{
-  background: url(images/w.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  
-  width: 100%;
- 
-  margin-top: 90px;
-  height: 50vh;
-  color: aliceblue;
-}
-.j4-text{
-  background: url(images/w.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  
-  width: 100%;
- 
-  margin-top: 90px;
-  height: 50vh;
-  color: aliceblue;
-}
+  /* margin-left: 20px; */
+  padding-right: 30px;
+height: 500px;
 
-
-.j2-text h3{
-  color: aliceblue;
-  font-size: 30px;
-  font-weight: 500;
-}
-.j2-text button{
-  background: transparent;
-  border: 2px solid white;
-color: #e2e5da;
-margin-top: 30px;
-width: 120px;
-font-size: 16px;
-height: 40px;
-}
+  }
+  .j-text{
+    margin: 20px;
+  }
+  .j-text h3{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: "popins", sans-serif;
+    font-weight:300 ;
+  
+  }
 
 /* gallery */
 
