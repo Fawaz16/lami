@@ -156,7 +156,7 @@ backface-visibility: hidden;
 }
 
 /* main project */
-.j-text{
+delete{
   background: url(images/184123_original_3152x3802.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -474,29 +474,29 @@ color: rgb(0, 0, 0);
   margin-top: 30px;
 }
 /* main project */
-.over{
-  height: 1000px;
-}
-.j-text{
-  background: url(images/h.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 10vh;
-  margin-top: 20px;
-  color: aliceblue;
-
-  
-}
-
 .j1-text{
   background: url(images/w.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 40vh;
+  height: 10vh;
+  margin-top: 80px;
+  color: aliceblue;
+  
+}
+
+
+  
+
+
+.j-text{
+  background: url(images/w.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 10vh;
   margin-top: 80px;
   color: aliceblue;
   
@@ -507,7 +507,7 @@ color: rgb(0, 0, 0);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 40vh;
+  height: 10vh;
   margin-top: 80px;
   color: aliceblue;
   
@@ -518,7 +518,7 @@ color: rgb(0, 0, 0);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  height: 40vh;
+  height: 10vh;
   margin-top: 80px;
   color: aliceblue;
   
@@ -559,8 +559,8 @@ margin-top: 40px;
   font-size: 15px;
   line-height: 26px;
 }
-
 }
+
 
 
 @media(min-width:735px){
