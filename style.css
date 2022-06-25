@@ -474,6 +474,9 @@ color: rgb(0, 0, 0);
   margin-top: 30px;
 }
 /* main project */
+.over{
+  height: 1000px;
+}
 .j-text{
   background: url(images/184123_original_3152x3802.jpg);
   background-position: center;
@@ -483,8 +486,10 @@ color: rgb(0, 0, 0);
   height: 40vh;
   margin-top: 20px;
   color: aliceblue;
+
   
 }
+
 .j1-text{
   background: url(images/w.jpg);
   background-position: center;
