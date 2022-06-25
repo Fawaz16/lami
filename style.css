@@ -1186,11 +1186,17 @@ visibility: visible;
   margin-top: 20px;
   /* margin-left: 20px; */
   padding-right: 30px;
-height: 500px;
+height: 350px;
+object-position: center;
+
+background-size: cover;
+background-repeat: no-repeat;
 
   }
   .j-text{
     margin: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
   }
   .j-text h3{
     text-align: center;
