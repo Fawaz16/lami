@@ -1182,12 +1182,13 @@ visibility: visible;
 
 /* main projects */
 .j-text img{
-  width: 100%;
+  width: 70%;
   margin-top: 20px;
   /* margin-left: 20px; */
   padding-right: 30px;
-height: 350px;
+
 object-position: center;
+position: relative;
 
 background-size: cover;
 background-repeat: no-repeat;
