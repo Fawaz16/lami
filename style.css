@@ -154,7 +154,9 @@ transition: transform 0.6s ease-in-out;
 -webkit-backface-visibility: hidden;
 backface-visibility: hidden;
 }
-
+.l-text h1{
+  font-family: 'Bona Nova', serif;
+}
 /* main project */
 
 
@@ -473,7 +475,9 @@ height: 400px;
   font-size: 20px;
   font-family: "popins", sans-serif;
   font-weight:300 ;
-
+  border: 2px solid grey;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
 
@@ -500,6 +504,22 @@ margin-top: 40px;
 .over{
   height: 500px;
 }
+/* drone dhots */
+.l-text h1{
+  margin: 30px 20px ;
+  font-size: 26px;
+  font-weight: bold;
+
+  color: grey;
+  }
+
+  .shots video{
+    height: 10vh;
+    object-fit: cover;
+    object-position: center;
+    width: 350px;
+    margin: 30px;
+  }
 }
 
 
@@ -860,19 +880,27 @@ padding-top: 80px;
   width: 100%;
   margin-top: 20px;
   /* margin-left: 20px; */
-  padding-right: 30px;
+  /* padding-right: 30px; */
 height: 500px;
 
   }
+  .over-j{
+    display: flex;
+  
+    flex-wrap: wrap;
+  }
   .j-text{
-    margin: 20px;
+    margin: 10px;
+
   }
   .j-text h3{
     text-align: center;
     margin-top: 10px;
     font-size: 30px;
+    
     font-family: "popins", sans-serif;
     font-weight:300 ;
+    border: 2px solid grey;
   
   }
 
@@ -887,7 +915,26 @@ height: 500px;
   line-height: 26px;
 }
 
-      }
+/* droneshots */
+.l-text h1{
+  margin: 30px 30px ;
+  font-size: 30px;
+  font-weight: bold;
+  color: grey;
+  }
+
+  .shots video{
+    height: 10vh;
+    object-fit: cover;
+    object-position: center;
+    width: 350px;
+    margin: 20px;
+  }
+  .overshots{
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
       
     
 
@@ -1182,7 +1229,7 @@ visibility: visible;
 
 /* main projects */
 .j-text img{
-  width: 70%;
+  width: 100%;
   margin-top: 20px;
   /* margin-left: 20px; */
   padding-right: 30px;
@@ -1194,13 +1241,19 @@ background-size: cover;
 background-repeat: no-repeat;
 
   }
+  .over-j{
+    display: flex;
+    flex-wrap: wrap;
+  }
   .j-text{
     margin: 20px;
-    margin-left: 50px;
+    margin-left: 40px;
     margin-right: 50px;
+    
   }
   .j-text h3{
-    text-align: center;
+  
+    border: 2px solid grey;
     margin-top: 10px;
     font-size: 30px;
     font-family: "popins", sans-serif;
@@ -1222,6 +1275,28 @@ background-repeat: no-repeat;
   left: 180px;
   margin-top: 30px;
   line-height: 26px;
+}
+
+/* drone shots */
+
+.l-text h1{
+margin: 30px 30px ;
+font-size: 40px;
+font-weight: bold;
+color: grey;
+}
+.shots video{
+  height: 70vh;
+  object-fit: cover;
+  object-position: center;
+  width: 500px;
+  border-radius: 20px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.overshots{
+  display: flex;
+  flex-wrap: wrap;
 }
 }
 /* 800px upward */
