@@ -514,11 +514,11 @@ margin-top: 40px;
   }
 
   .shots video{
-    height: 10vh;
+    height: 60vh;
     object-fit: cover;
     object-position: center;
-    width: 350px;
-    margin: 30px;
+    width: 300px;
+    margin: 20px;
   }
 }
 
@@ -561,7 +561,7 @@ margin-top: 40px;
       width: 100%;
     }
     .minidiv ul li{
-      font-size: 15px;
+      font-size: 5px;
       font-family: 'Bona Nova', serif;
     }
     .wrapper h1{
@@ -924,7 +924,7 @@ height: 500px;
   }
 
   .shots video{
-    height: 10vh;
+    height: 40vh;
     object-fit: cover;
     object-position: center;
     width: 350px;
@@ -1326,7 +1326,7 @@ color: grey;
     font-weight: 600;
   }
   .minidiv {
-    width: 90%;
+    width: 100%;
     margin-left: 40px;
 
   }
