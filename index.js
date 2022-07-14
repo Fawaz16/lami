@@ -5,7 +5,7 @@ let btext=document.querySelector(".b-text p")
 let ctext=document.querySelector(".c-text p")
 let avatar=document.querySelector(".avatar")
 let jtext=document.querySelector(".j2-text h3")
-// let jtext=document.querySelector(".j2-text button")
+let ktext=document.querySelector(".shots")
 
 hamburger.addEventListener("click", () => {
   minidiv.style.transform = "translateX(-0px)";
@@ -16,6 +16,7 @@ hamburger.addEventListener("click", () => {
     ctext.style.display="none"
     avatar.style.display="none"
     jtext.style.display="none"
+    ktext.style.display="none"
   }
 });
 closebtn.addEventListener("click", () => {
@@ -27,6 +28,7 @@ closebtn.addEventListener("click", () => {
     ctext.style.display="block"
     avatar.style.display="block"
     jtext.style.display="block"
+    ktext.style.display="block"
   }
 });
 
